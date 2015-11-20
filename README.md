@@ -2,5 +2,8 @@
 This is a socket.io example
 
 # How to run
-
-$ git clone
+```
+$ git clone https://github.com/sheguloves/socket-io-chat.git
+$ npm install
+$ npm start
+```
